@@ -1,0 +1,5 @@
+/*
+First call contribute function
+Then send some ether to the contract
+
+*/
