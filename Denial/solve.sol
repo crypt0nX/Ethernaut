@@ -7,7 +7,8 @@ contract attacker {
     }
     
     fallback() external payable {
-       revert();
+ //      revert();
+        assert(false);
     }
 
 }
